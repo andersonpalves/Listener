@@ -1,0 +1,6 @@
+ID - VALOR TOTAL - NOME DO VENDEDOR
+3, 105.60, Pedro
+3, 11.60, Paulo
+
+ID da venda mais cara: 105.60
+Pior Vendedor: Paulo
